@@ -1,8 +1,8 @@
 # 🍷 Projeto: Vinheria Agnello
-Logo animada com tela de carregamento utilizando o Arduino Uno e Display LCD 16x2 I2C. Criada para o projeto Vinheria Agnello da FIAP.
+Logo animada com tela de carregamento utilizando o Blackboard Arduino Uno R3 e Display LCD 16x2 I2C. Criada para o projeto Vinheria Agnello da FIAP.
 
-## 🛠️ Materiais Necessários
-* 1x Arduino Uno
+## 🛠️ Materiais Utilizados
+* 1x Arduino Uno (Blackboard Arduino Uno R3)
 * 1x Display LCD 16x2 com adaptador I2C
 * 4x Fios Jumper (Macho-Fêmea)
 
@@ -19,7 +19,7 @@ Para que o código funcione, é preciso instalar a biblioteca no Arduino IDE:
 
 *(Opcional: Caso o seu display não acender ou mostrar caracteres estranhos, pode ser necessário rodar um script de I2C Scanner para descobrir o endereço hexadecimal do seu módulo, que geralmente é "0x27" ou "0x3F").*
 
-## 🚀 Como Executar
+## 🚀 Como Executar no Arduino IDE
 1. Clone este repositório ou faça o download dos arquivos em formato ZIP.
 2. Abra o arquivo ".ino" na sua Arduino IDE.
 3. Conecte o seu Arduino Uno ao computador via cabo USB.
