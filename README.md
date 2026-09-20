@@ -27,5 +27,8 @@ Para que o código funcione, é preciso instalar a biblioteca no Arduino IDE:
 5. Clique em **Tools** > **Port** e selecione a porta COM correspondente.
 6. Clique no botão **Upload** (ícone de seta para a direita) para compilar e carregar o código para o Arduino.
 
+## 💻 Integrantes do Projeto
+Flávia Sirahata Hasegava, Eduardo Ambra Giordano de Castro, Gabriel Souza Bore de Carvalho, Lirity Ribeiro de Paiva e Nicolle Lima Nascimento.
+
 ## 📄 Licença
 Este projeto está licenciado sob a licença [MIT](LICENSE).
