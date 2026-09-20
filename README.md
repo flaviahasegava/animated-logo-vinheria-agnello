@@ -8,10 +8,7 @@ Logo animada com tela de carregamento utilizando o Arduino Uno e Display LCD 16x
 
 ## 🔌 Conexões (Pinagem I2C)
 Pino do LCD I2C | Pino no Arduino Uno
-GND -> GND
-VCC -> 5V
-SDA -> A4
-SCL -> A5
+GND -> GND | VCC -> 5V | SDA -> A4 | SCL -> A5
 
 ## 📦 Bibliotecas Necessárias
 Para que o código funcione, é preciso instalar a biblioteca no Arduino IDE:
